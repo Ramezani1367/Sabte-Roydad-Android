@@ -1,0 +1,9 @@
+{
+  "appId": "com.sabte.roidadha",
+  "appName": "ثبت رویدادها",
+  "webDir": "www",
+  "backgroundColor": "#1b4965",
+  "server": {
+    "androidScheme": "https"
+  }
+}
